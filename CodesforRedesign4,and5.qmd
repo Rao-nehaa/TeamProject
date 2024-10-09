@@ -1,0 +1,48 @@
+---
+title: "CodesforRedesign4,and5"
+editor: visual
+---
+Redesign4:
+```{r}
+df = read.csv('unemployment.csv')
+df
+library(tidyverse)
+library(ggplot2)
+```
+
+```{r}
+# Create a line chart with highlighted points
+ggplot(df,aes(x=reorder(Month,Month_number),y=Unemployment.Rate,group=1))+geom_line(color="black",size=1)+geom_point(color='red',size=3)                # Optional: Clean theme
+
+ggplot(df,aes(x=reorder(Month,Month_number),y=Unemployment.Rate,group=1))+
+  geom_bar(stat = 'identity',colour='black',fill='cyan')
+
+
+ggplot(df, aes(x = reorder(Month, Month_number), y = "Unemployment Rate")) +
+  geom_tile(aes(fill = Unemployment.Rate), color = "white") +
+  scale_fill_gradient(low = "green", high = "red") +
+  theme_minimal() +
+  labs(title = "Unemployment Rate by Month (Heatmap)", 
+       x = "Month", 
+       y = "")
+
+```
+Redesign5:
+
+```{r}
+df = read.csv('Unemployment data - Sheet1.csv')
+df
+library(tidyverse)
+library(ggplot2)
+```
+```{r}
+# Create a line chart with highlighted points
+ggplot(df, aes(x = Month, y = Unemployment.Rate, group = 1)) +
+  geom_line(color = "black", size = 1) +    # Line for the trend
+  geom_point(color = 'red', size = 3) +     # Red points on the line
+  theme_minimal() +                         # Optional clean theme
+  labs(title = "Unemployment Rate Over Time",
+       x = "Month",
+       y = "Unemployment Rate") 
+```
+

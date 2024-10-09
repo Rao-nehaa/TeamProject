@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "TeamProject"
+  navbar:
+    left:
+      - href: index.qmd
+      - Introduction.qmd
+      - Original Graph1.qmd
+      - Redesign1.qmd
+      - Redesign2.qmd
+      - Redesign3.qmd
+      - CodesforRedesign1,2,and3.qmd
+      - Original Graph2.qmd
+      - Redesign4.qmd
+      - Redesign5.qmd
+      - CodesforRedesign4,and5.qmd
+      - References.qmd
+      - Video Presentation.qmd
+      
+format:
+  html:
+    theme: sandstone
+    mainfont: times new roman
+    fontsize: 1.5rem
+    css: styles.css
+    toc: true
+
+
+

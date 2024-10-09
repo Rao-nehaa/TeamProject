@@ -1,0 +1,18 @@
+---
+title: "Introduction"
+editor: visual
+---
+
+Team Member 1: ![Image1](Image1.png){fig-align="center" width="150px"}
+
+Hello, My name is **Neha Rao**, currently pursuing a Master's degree in **Data Analytics Engineering**. I have 2.5 years of work experience at **Capgemini**, India. I hold a Bachelor's degree in Information Science and Engineering from Mangalore, Karnataka, India which I completed in 2021. My primary education goal for this course is to deepen my understanding of data analytics and its applications in real-time scenarios, particularly within the context of financial sector. I have experience working in various computing environments, including **Python, web development, SQL/DB2, R programming** and **C#**. I am also familiar with **COBOL,CICS and JCL** for mainframe applications. Additionally, I have utilized python-based libraries and tools for statistical computing and data visualization.
+
+Apart from my education, I find happiness in music, playing the guitar, dancing, creating mandala art, and spending time on platforms like Pinterest, Instagram, and LinkedIn. I love to learn and explore new things in my life, so I always say, Learning is a continuous processs, and I strive to maintain a balance between my personal and professional life.
+
+Social Media: - [Outlook](nrao6@gmu.edu) - [LinkedIn](https://www.linkedin.com/in/neha-rao-415843193/){target="_blank"} - [GitHub](https://github.com/Rao-nehaa){target="_blank"} - [Instagram](https://www.instagram.com/_neharaoo/?hl=en){target="_blank"}
+
+Team Member 2: ![Image2](Image2.png){fig-align="center" width="150px"}
+
+My name is **Vaibhav Hasu**, but please feel free to call me Vic. I am currently a graduate student pursuing a Master of Science in **Data Analytics Engineering** at George Mason University. I have a Bachelor’s degree in Computer Science Engineering from CVR College of Engineering in Hyderabad, India. My UG degree was completed in July 2024. At Mason I aim to build my analytical skills and elevate my competence with tools like **R, Python, SQL, Tableau and cloud services like AWS**. My goal is to specialize in Health Data Analytics as I continue to advance my career. I have experience with various computing environments such as **Linux** that I use for data analysis tasks, **Windows** that I use for programming and **database management** and **AWS** at an intermediate level for managing databases and running ML models. I have a solid foundation in data analytics principles from my **IBM certification (IBM Data Analytics)**.
+
+Social Media: - [Outlook](Vhasu@gmu.edu) - [LinkedIn](https://www.linkedin.com/in/vaibhav-hasu-3260a1310){target="_blank"} - [GitHub](https://github.com/Vhasu){target="_blank"} - [Instagram](https://www.instagram.com/vaibhavhasu_/?hl=en){target="_blank"}

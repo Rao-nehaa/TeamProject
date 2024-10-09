@@ -1,0 +1,14 @@
+---
+title: "References"
+editor: visual
+---
+
+Resources Used:
+
+Original Graph1:
+
+<https://www.bls.gov/charts/american-time-use/activity-by-sex.htm>
+
+Original Graph2:
+
+<https://flowingdata.com/2011/12/12/fox-news-still-makes-awesome-charts/>

@@ -1,0 +1,22 @@
+---
+title: "Redesign3"
+editor: visual
+---
+
+Average per Weekend by Activity
+
+![AveragePerWeekend](AveragePerWeekend.png){fig-align="center" width="10050px"}
+
+Here are some aspects that will help us understand why this graph is superior than the terrible one we saw earlier:
+
+1\) **Hover for Additional Details**: Users can hover over each bar to uncover actual values for the activity, including a gender-specific split, which clarifies the contrast between men and women without cluttering the graph.
+
+2\) **Interactive Filters**: Filters enable viewers to pick specific activities (for example, "Leisure and sports" or "Work and work-related activities") for a more focused view, allowing for targeted analysis without overwhelming the user with too much information all at once.
+
+3\) **Dynamic Gender Comparison**: The graph makes it easy to switch between gender-specific data, allowing users to separate and compare men's and women's weekend activities, hence enhancing usability and engagement.
+
+4\) **Tooltips with Context**: Interactive tooltips provide brief descriptions of activity categories (e.g., distinguishing "Caring for household members" from "Household activities"), adding context and clarity.
+
+5\) **Responsive Scaling for Time Spent**: As users explore various activities, the graph updates to indicate the percentage of total weekend time spent on each, allowing viewers to better understand how time is allocated across activities.
+
+6\) **Intuitive Layout for Improved Usability**: The interactive features, such as hover effects and clickable filters, make the graph more customizable and allow for in-depth exploration without being overwhelmed by static data.

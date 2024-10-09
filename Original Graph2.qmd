@@ -1,0 +1,16 @@
+---
+title: "Original Graph2"
+editor: visual
+---
+
+The below graph depicts Unemployment rate
+
+![UnemploymentRateOrginalGraph2](UnemploymentRateOrginalGraph2.png){fig-align="center" width="1050px"} This graph of 2011 unemployment rates, while visually pleasing, contains various flaws that could lead to mistake. Here are a few potential issues:
+
+1)  **Inconsistent Y-Axis Scale:** The Y-axis begins at 8%, which can highlight visual differences between data points. The difference between 8.8% and 9.2%, for example, appears significantly higher than it would if the scale began at 0%, creating an illusion of fluctuation.
+2)  **Lack of Data Context:** The graph depicts unemployment rates for one year but provides no context for previous years or comparisons to other eras. It's difficult to determine if this is an improving or worsening trend.
+3)  **Inconsistent Data Marking:** The data points are not labeled consistently across the months. While percentages are displayed for each month, the graph employs a highly visible type of markers that overemphasize each point, perhaps making minor variances appear more substantial than they are.
+4)  **Focus on Round Numbers:** The data appears to round some numbers to the nearest tenth or, in other cases, to flat 9.0% values, despite the fact that the Bureau of Labor Statistics reports unemployment levels in more specific terms. This oversimplification may disregard minor but significant changes.
+5)  **Minimal Detail in Data Source:** The Bureau of Labor Statistics is credited as the source, however the figure does not clarify which report or dataset was utilized. More specific citations would provide legitimacy to the data.
+6)  **Design Choices Affecting Perception:** The use of red, bold markers to highlight the data points, combined with the steepness of the curve between June and November, attracts unnecessary attention to those months. This might make little declines or swings seem pronounced than they are.
+7)  **No Error Bars or Uncertainty:** These data show no doubt or inaccuracy, despite the fact that unemployment rates are frequently revised subsequently. Include error bars or ranges to provide a more nuanced view of the data.

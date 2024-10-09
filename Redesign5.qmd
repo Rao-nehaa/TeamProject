@@ -1,0 +1,18 @@
+---
+title: "Redesign5"
+editor: visual
+---
+
+Unemployment Rate by Time
+
+![RateOverTime](RateOverTime.png){fig-align="center" width="10050px"}
+
+Here are some aspects that will help us understand why this graph is superior than the original one we saw earlier:
+
+1\) **Standardized Y-Axis**: The Y-axis in this redesign spans a more realistic range, displaying numbers between 8.6% and 9.2% rather than beginning at an arbitrary position (such as 8% in the original). This reduces the visual exaggeration of oscillations and ensures that monthly variations are not overblown.
+
+2\) **Less Aggressive Emphasis on Data Points**: The markers on this graph (little red circles) are less bold than the original design. This avoids overemphasizing individual data points and creates a more fluid visual experience in which the line and overall trend are the focus rather than each month's specific rate. The smaller size of the points makes slight differences easier to detect without overemphasizing minor changes.
+
+3\) **Smoother Data Representation**: Simple black lines represent the month-to-month link. The chart's linearity contributes to a clean, unobtrusive display of month-to-month variations in unemployment. In contrast to the heatmap, this line graph displays data that is easier to track for specific trends while avoiding any distractions caused by color gradients.
+
+4\) **Improved Trend Readability:** This version of the graph better depicts the monthly trend in unemployment rates by using a consistent and relatively simple arrangement, rather than overpowering the observer with extraneous markers or aggressive design choices. The smooth line visually connects the data points, providing an intuitive understanding of how unemployment rates rise and fall over time.

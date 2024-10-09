@@ -1,0 +1,30 @@
+---
+title: "Redesign1"
+editor: visual
+---
+
+Average Hours per Day by Activity
+
+![AverageHoursPerday](AverageHoursPerday.png){fig-align="center" width="10050px"}
+
+Here are some aspects that will help us understand why this graph is superior than the terrible one we saw earlier:
+
+1)  **Clear and Descriptive Legend:** The new graph has a more informative legend, with "Average per day men" and "Average per day women" clearly labeled with different colors, making it easier for readers to distinguish between the two groups at a glance.
+
+2)  **Improved Color Contrast:** To provide unambiguous categorization, distinct colors were employed, such as red for men and blue for women. This removes the problem of identical tones, which had previously caused confusion. The contrasting colors are very beneficial to people with color vision problems.
+
+3)  **Direct Labels on Bars**: Each bar in the graph now has direct numeric values, allowing for exact data points and simple comparison. This reduces the need to rely exclusively on bar length, resulting in a more accurate assessment of differences between activities.
+
+4)  **Organized Grouping of Categories:** The activities on the x-axis are more clearly categorized for easier reading. Groupings now flow logically, making the data more accessible. For example, related activities such as "Caring for household members" and "Household activities" are placed close together to reduce confusion.
+
+5)  **Context for Activity Categories:** A clearer separation between related activities, such as "caring for and assisting household members," and "household activities," has been made. This provides important background and guarantees that each category is understood without ambiguities.
+
+6)  **Focused Data for Hours:**The redesigned graph clearly illustrates the average daily hours spent on activities by gender, reducing any overlap between weekdays and weekends. This focused representation streamlines the comparison between men and women, making it more straightforward and less visually cluttered. By eliminating the need for multiple categories within the same bar (weekday vs. weekend), the graph presents the data more concisely, allowing users to quickly understand the gender-based time differences without confusion.
+
+7)  **Clearer Purpose of the Graph:** The title and labeling now stress the comparability of men and women's average daily hours spent doing activities. This improves concentration by eliminating uncertainty about what the graph intends to express.
+
+8)  **Y-axis Labels Spaced for Readability:** The labels on the y-axis are now evenly spaced and no longer clumped together. This improves readability and allows each activity to be easily distinguished without straining the eyes.
+
+9)  **Indication of Total Time Spent:** The number labels on the bars indicate the total average hours spent on each activity, making it easy to observe which activities take up the most time in a day (for example, "Leisure and sports" for males and "Personal care, including sleep" for women).
+
+10) **Contextual Information and Data Source:**While the data source may not be readily visible in this visualization, the graph can be enhanced with a footnote or extra information identifying the data source as the United States Bureau of Labor Statistics. Including methods and demographics in a caption might help people comprehend more.

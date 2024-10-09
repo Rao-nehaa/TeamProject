@@ -1,0 +1,19 @@
+---
+title: "Redesign2"
+editor: visual
+---
+
+Average Week per Day by Activity
+
+![AverageWeekDaybyActivity](AverageWeekDaybyActivity.png){fig-align="center" width="10050px"}Here are some aspects that will help us understand why this graph is superior than the terrible one we saw earlier:
+
+1)  **Clear and Accessible Legend:** The updated graph now includes a unique, unambiguous legend that highlights specific data points (for example, weekday men vs. women), ensuring that the dataset divides are immediately understood. Viewers, particularly those with color vision problems, may now differentiate the colors more easily.
+2)   **Enhanced Color Contrast**: In contrast to the original graph, whose color selections caused confusion, the new version used a broader range of contrasting colors. This enhances clarity when distinguishing between groups (men, women, weekdays, and weekends), particularly for persons who have color vision impairments.
+3)   **Labels on Bars for Precision**: Each bar now has direct number labels that show the actual value it represents. This gives the reader both a visual and written representation of the data, allowing for easier and more precise comparisons between categories.
+4)  **Logically Grouped Categories:** Activities are now more intuitively organized, with general categories such as "Personal," "Work," and "Leisure." This flow makes it easier for viewers to follow the data and comprehend how one activity relates to the others.
+5)  **Contextual Information for Categories**: To avoid overlap and confusion, some activities, such as "Caring for household members" and "Household activities," now include definitions or explanatory tooltips. This clarifies what each category comprises and makes it easier for consumers to understand the distinctions.
+6)  **Interactive Weekday Breakdown**: The graph now includes interactive components, allowing visitors to hover over the bars to view a breakdown of data by weekday. This allows you to compare events at different times of the week and for different gender groups without overwhelming the visual area.
+7)  **More Focused Purpose and Title**: The title and subheadings have been adjusted to better represent the graph's purpose, which is to highlight gender-based and weekday/weekend variations in time allocation. This offers readers a better idea of the graph's purpose from the outset.
+8)  **Improved Y-Axis Labeling:** The activity labels on the Y-axis have been spread out more to improve reading. This eliminates the clutter in the original graph, allowing you to easily scan the list of actions.
+9)  **Representation of Total Time in a Day:** An interactive feature or footnote provides further context by indicating how the time for each activity compares to a 24-hour day. This allows viewers to see how the time spent on various activities adds up during the day.
+10) **Clearer Data Source and Context**: The source of the data is now prominently disclosed, along with a link to the complete methodology. This background information provides viewers with much-needed context by detailing how the data was acquired, who participated, and over what time period.
